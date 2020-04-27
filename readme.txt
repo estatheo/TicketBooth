@@ -9,7 +9,7 @@ Setup:
 Sendgrid setup:
 
 0. setup the mx record on your domain as mx 10 mx.sendgrid.net
-1. create an Inbound parse rule @ https://app.sendgrid.com/settings/parse pointing to your azure function
+1. create an Inbound parse rule @ https://app.sendgrid.com/settings/parse pointing to your azure function (to test it locally, i use ngrok)
 
 Twilio setup:
 
