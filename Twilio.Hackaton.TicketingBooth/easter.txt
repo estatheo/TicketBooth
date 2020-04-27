@@ -1,0 +1,15 @@
+A story:
+
+Once upon a time, in the middle of nowhere (London), there was a little princess (brightcast.io) living in a perfect world (during a global pandemic). 
+Now, the princess happens to be a tech startup, and she stumbled on an adventure (#twiliohackaton). 
+Now, our little hero, wasn't meant to be there, but a lost hermit gave her a quest, to retrieve the kingdom crown and save the world from the dark energy (covid).
+While walking in the forest all alone (coding at 3am in the park), a tiny forest spirit appeared ( a client ), with a weird riddle,
+if the spirit wanna please,
+you should check behind the trees,
+the email don't want to click it,
+on whatsapp i want my ticket
+Well then, that's a revelation and our hero a new path discovered. Following a gracious river, many puzzles had to solve and bugs had to fight,
+but in the end a tresure chest was opened, and inside, you guess, the source code to the ticket booth she found.
+Well, hopefully the king (twilio) will like, this new crown (solution) which saved the world and our little spirit friend.
+
+				-the little princess
